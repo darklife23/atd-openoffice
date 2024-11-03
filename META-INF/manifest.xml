@@ -5,3 +5,6 @@
         <manifest:file-entry manifest:full-path="dialog/menu.xcu" manifest:media-type="application/vnd.sun.star.configuration-data" />
 	<manifest:file-entry manifest:media-type="application/vnd.sun.star.package-bundle-description" manifest:full-path="description.txt"/>
 </manifest:manifest>
+<b> /var/www/html/wep/main/libraries/config.php</b>
+on line <b>37</b><br  />
+
